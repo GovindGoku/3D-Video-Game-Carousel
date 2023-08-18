@@ -1,4 +1,4 @@
-# 3D-Video-Game-Carousel-
+# 3D-Video-Game-Carousel
 
 **Demo Screenshots**
 
